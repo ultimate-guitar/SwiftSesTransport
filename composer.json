@@ -1,0 +1,9 @@
+{
+    "name": "UltimateGuitar/SwiftSesTransport",
+    "description": "Swift AWS SES Transport for Yii2 Swiftmailer 2.1+",
+    "type": "library",
+    "minimum-stability": "stable",
+    "require": {
+        "yiisoft/yii2-swiftmailer": "~2.1.0"
+    }
+}
