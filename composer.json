@@ -1,9 +1,25 @@
 {
     "name": "ultimate-guitar/swift-ses-transport",
     "description": "Swift AWS SES Transport for Yii2 Swiftmailer 2.1+",
+    "license": "MIT",
+    "keywords": ["yii2", "mail", "swiftmail", "aws", "ses"],
+    "authors": [
+        {
+            "name": "Andrey Bruhanov"
+        },
+        {
+            "name": "Maxim CHistyakov",
+            "email": "m.chistyakof@gmail.com"
+        }
+    ],
     "type": "library",
     "minimum-stability": "stable",
     "require": {
         "yiisoft/yii2-swiftmailer": "~2.1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "UltimateGuitar\\SwiftSesTransport\\": ""
+        }
     }
 }
