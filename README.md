@@ -6,7 +6,7 @@
 
 `composer require "ultimate-guitar/swift-ses-transport"`
 
-## Hot to use
+## How to use
 
 Add to config file in your Yii2 app:
 
