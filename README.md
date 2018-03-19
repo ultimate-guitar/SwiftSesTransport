@@ -4,7 +4,7 @@
 
 ## How to install
 
-`composer require "UltimateGuitar/SwiftSesTransport"`
+`composer require "ultimate-guitar/swift-ses-transport"`
 
 ## Hot to use
 
