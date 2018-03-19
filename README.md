@@ -2,11 +2,11 @@
 
  Swift AWS SES Transport with support Yii2 Swiftmailer 2.1+
 
-# How to install
+## How to install
 
 `composer require "UltimateGuitar/SwiftSesTransport"`
 
-# Hot to use
+## Hot to use
 
 Add to config file in your Yii2 app:
 
